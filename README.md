@@ -8,7 +8,9 @@
 2. Embedding이란?
 3. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
 4. Model Fine-tuning
-5. Gradio Chatbot 구현
+    - ChatGPT를 활용한 학습데이터 생성
+    - Fine-tuning
+6. Gradio Chatbot 구현
     - Gradio를 활용한 간단한 Web UI 구현
     - Gradio+LangChain ChatBot 구현
 
