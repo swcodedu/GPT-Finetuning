@@ -3,6 +3,8 @@
 **일자:** 2024년 1월 7일  
 **시간:** 10:00 ~ 17:00
 
+### [실습 파일](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit?usp=sharing)
+
 ### 과정 요약
 1. GPT 작동 원리
 2. Embedding이란?
