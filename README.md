@@ -6,6 +6,7 @@
 ### 과정 요약
 1. GPT 작동 원리
 2. Embedding이란?
+    - [fine-food embedded file link] https://drive.google.com/file/d/1jfmC2bkgmsjC56xlOeNyrIOytxPMJP6R/view?usp=sharing
 3. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
     - Chain의 구현
     - LamaIndex를 활용한 RAG의 구현
