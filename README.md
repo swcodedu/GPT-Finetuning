@@ -5,10 +5,10 @@
 
 # 과정 요약
 
-1. GPT 작동 원리
-2. Embedding이란?
-3. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
-4. Model Fine-tuning
-5. Gradio Chatbot 구현
-  - Gradio를 활용한 간단한 Web UI 구현
-  - Gradio+LangChain ChatBot 구현
+  1. GPT 작동 원리
+  2. Embedding이란?
+  3. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
+  4. Model Fine-tuning
+  5. Gradio Chatbot 구현
+    - Gradio를 활용한 간단한 Web UI 구현
+    - Gradio+LangChain ChatBot 구현
