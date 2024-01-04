@@ -7,6 +7,8 @@
 ---
 [GPT 이해와 활용](https://drive.google.com/file/d/1aZWJWzVbjG5ycR0Wol8SLdNuzbzYDqO5/view?usp=sharing)
 
+[GPT Fine-tuning](https://drive.google.com/file/d/1kNHGPUOIlkvwoKl0PQUXqSoBLeCHCcGQ/view?usp=sharing)
+
 [실습 파일](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit?usp=sharing)
 
 ---
