@@ -19,11 +19,12 @@
     - [fine-food embedded file link](https://drive.google.com/file/d/1jfmC2bkgmsjC56xlOeNyrIOytxPMJP6R/view?usp=sharing)
 
 4. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
+    - Chain의 구현
+    - LamaIndex를 활용한 RAG의 구현
 
 ![rag](https://github.com/JSJeong-me/GPT-Finetuning/assets/54794815/b5ffaf7f-79eb-49d1-a61a-927f6387ae2e)
 
-    - Chain의 구현
-    - LamaIndex를 활용한 RAG의 구현
+
 6. Model Fine-tuning
     - ChatGPT를 활용한 학습데이터 생성
     - Fine-tuning 모델 생성
