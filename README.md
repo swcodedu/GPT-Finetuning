@@ -20,7 +20,7 @@
 
 4. RAG(Retrieval Augmented Generation) 구현 - LangChain과 LamaIndex
 
-   ![Uploading rag.png…]()
+![rag](https://github.com/JSJeong-me/GPT-Finetuning/assets/54794815/b5ffaf7f-79eb-49d1-a61a-927f6387ae2e)
 
     - Chain의 구현
     - LamaIndex를 활용한 RAG의 구현
