@@ -7,7 +7,7 @@
 ---
 [GPT의 동작원리](https://drive.google.com/file/d/1T1D-VImadWcP5j4p0ddTKji1CwCXNx9M/view?usp=sharing)
 
-[GPT Fine-tuning](https://drive.google.com/file/d/1kNHGPUOIlkvwoKl0PQUXqSoBLeCHCcGQ/view?usp=sharing)
+[GPT Fine-tuning](https://drive.google.com/file/d/1KQ4TgmXeb5-bIY_rXCKPMEdT_YRmnlYf/view?usp=sharing)
 
 [실습 파일](https://docs.google.com/spreadsheets/d/1sJ4X03A_DrBCC24zp_sqiQW17qhVoiOQVr5ScEmhfEo/edit?usp=sharing)
 
