@@ -5,7 +5,7 @@
 
 
 ---
-[GPT 이해와 활용](https://drive.google.com/file/d/1aZWJWzVbjG5ycR0Wol8SLdNuzbzYDqO5/view?usp=sharing)
+[GPT의 동작원리](https://drive.google.com/file/d/1T1D-VImadWcP5j4p0ddTKji1CwCXNx9M/view?usp=sharing)
 
 [GPT Fine-tuning](https://drive.google.com/file/d/1kNHGPUOIlkvwoKl0PQUXqSoBLeCHCcGQ/view?usp=sharing)
 
